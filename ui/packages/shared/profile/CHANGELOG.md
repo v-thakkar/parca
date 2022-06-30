@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.14.0](https://github.com/v-thakkar/parca/compare/ui-v0.12.22...ui-v0.14.0) (2022-06-30)
+
+### Features
+
+- useContainerDimensions hook for smooth chart resize ([3fe5670](https://github.com/v-thakkar/parca/commit/3fe5670cb94e838d83e5cb10d453ee620c2dc3c1))
+
 ## [0.13.13](https://github.com/parca-dev/parca/compare/ui-v0.13.12...ui-v0.13.13) (2022-06-29)
 
 **Note:** Version bump only for package @parca/profile

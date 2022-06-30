@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.14.0](https://github.com/v-thakkar/parca/compare/ui-v0.12.22...ui-v0.14.0) (2022-06-30)
+
+### Bug Fixes
+
+- linter errors ([7230db4](https://github.com/v-thakkar/parca/commit/7230db46b764d3a11ecb63f2b28a2a666629b5a9))
+
+### Features
+
+- auto-reload configuration ([#1141](https://github.com/v-thakkar/parca/issues/1141)) ([90a799b](https://github.com/v-thakkar/parca/commit/90a799b4efc09c54e1a073cc1755bc14ec8dd94e))
+- useContainerDimensions hook for smooth chart resize ([3fe5670](https://github.com/v-thakkar/parca/commit/3fe5670cb94e838d83e5cb10d453ee620c2dc3c1))
+
+## 0.12.20 (2022-04-12)
+
 ## [0.13.14](https://github.com/parca-dev/parca/compare/ui-v0.13.13...ui-v0.13.14) (2022-06-29)
 
 ## [0.13.12](https://github.com/parca-dev/parca/compare/ui-v0.13.10...ui-v0.13.12) (2022-06-27)
